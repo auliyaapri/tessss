@@ -1,0 +1,26 @@
+[1mdiff --git a/contact.html b/contact.html[m
+[1mindex d9afcef..df7b23e 100644[m
+[1m--- a/contact.html[m
+[1m+++ b/contact.html[m
+[36m@@ -9,7 +9,7 @@[m
+     <meta name="author" content="">[m
+     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">[m
+ [m
+[31m-    <title>Sixteen Clothing - Contact Page</title>[m
+[32m+[m[32m    <title>Sixteen Clothing - Contact anggota</title>[m
+ [m
+     <!-- Bootstrap core CSS -->[m
+     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 143aafc..d427a3a 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -38,7 +38,7 @@[m
+           <div class="collapse navbar-collapse" id="navbarResponsive">[m
+             <ul class="navbar-nav ml-auto">[m
+               <li class="nav-item active">[m
+[31m-                <a class="nav-link" href="index.html">Home[m
+[32m+[m[32m                <a class="nav-link" href="index.html">Home anggota[m
+                   <span class="sr-only">(current)</span>[m
+                 </a>[m
+               </li> [m
